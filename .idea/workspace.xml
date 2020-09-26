@@ -11,7 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android JUnit._3_StartThePhoneActivity">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -88,6 +87,22 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
       <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._2_StartTheGoogleMapsActivity" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_3_StartThePhoneActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pluralsight.candycoded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.pluralsight.candycoded" />
+      <option name="MAIN_CLASS_NAME" value="com.pluralsight.candycoded._3_StartThePhoneActivity" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -169,6 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Android JUnit._3_StartThePhoneActivity" />
         <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
@@ -221,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601144260759</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="InfoActivity.java">
+      <created>1601144723051</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601144723051</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -244,26 +267,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601057013623" />
-    <state x="235" y="0" key="CommitChangelistDialog2" timestamp="1601144660546">
+    <state x="235" y="0" key="CommitChangelistDialog2" timestamp="1601144721556">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="235" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601144660546" />
-    <state width="1329" height="170" key="GridCell.Tab.0.bottom" timestamp="1601141577840">
+    <state x="235" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601144721556" />
+    <state width="1329" height="170" key="GridCell.Tab.0.bottom" timestamp="1601144974310">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1329" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601141577840" />
-    <state width="1329" height="170" key="GridCell.Tab.0.center" timestamp="1601141577840">
+    <state width="1329" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601144974310" />
+    <state width="1329" height="170" key="GridCell.Tab.0.center" timestamp="1601144974309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1329" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601141577840" />
-    <state width="1329" height="170" key="GridCell.Tab.0.left" timestamp="1601141577840">
+    <state width="1329" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601144974309" />
+    <state width="1329" height="170" key="GridCell.Tab.0.left" timestamp="1601144974308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1329" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601141577840" />
-    <state width="1329" height="170" key="GridCell.Tab.0.right" timestamp="1601141577840">
+    <state width="1329" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601144974308" />
+    <state width="1329" height="170" key="GridCell.Tab.0.right" timestamp="1601144974309">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1329" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601141577840" />
+    <state width="1329" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601144974309" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601126903999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
