@@ -9,11 +9,9 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Intent created">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,40 +169,54 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="my first commit">
+      <created>1601135442554</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601135442555</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="my first commit" />
+    <MESSAGE value="Intent created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intent created" />
   </component>
   <component name="WindowStateProjectService">
     <state x="110" y="120" width="1145" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601060065195">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="110" y="120" width="1145" height="488" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1601060065195" />
+    <state x="487" y="72" key="#com.intellij.ide.util.MemberChooser" timestamp="1601138378319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1601138378319" />
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1601057013623">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1601057013623" />
-    <state x="235" y="0" key="CommitChangelistDialog2" timestamp="1601135364332">
+    <state x="235" y="0" key="CommitChangelistDialog2" timestamp="1601139396490">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="235" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601135364332" />
-    <state width="1329" height="170" key="GridCell.Tab.0.bottom" timestamp="1601068829274">
+    <state x="235" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601139396490" />
+    <state width="1329" height="170" key="GridCell.Tab.0.bottom" timestamp="1601138236031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1329" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601068829274" />
-    <state width="1329" height="170" key="GridCell.Tab.0.center" timestamp="1601068829257">
+    <state width="1329" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601138236031" />
+    <state width="1329" height="170" key="GridCell.Tab.0.center" timestamp="1601138236031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1329" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601068829257" />
-    <state width="1329" height="170" key="GridCell.Tab.0.left" timestamp="1601068829256">
+    <state width="1329" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601138236031" />
+    <state width="1329" height="170" key="GridCell.Tab.0.left" timestamp="1601138236031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1329" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601068829256" />
-    <state width="1329" height="170" key="GridCell.Tab.0.right" timestamp="1601068829258">
+    <state width="1329" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601138236031" />
+    <state width="1329" height="170" key="GridCell.Tab.0.right" timestamp="1601138236031">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1329" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601068829258" />
+    <state width="1329" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601138236031" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1601126903999">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
